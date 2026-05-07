@@ -35,19 +35,7 @@ This project is built using Python, Scikit-learn, Pandas, and Streamlit.
 
 ---
 
-## 📂 Project Structure
 
-```bash
-loan_prediction/
-│
-├── app.py                     # Streamlit web application
-├── loan_prediction.ipynb      # Jupyter notebook for training
-├── student_pred.ipynb         # Prediction notebook
-├── loan_data.csv              # Dataset
-├── model.pkl                  # Saved trained model
-├── requirements.txt           # Required libraries
-└── README.md                  # Project documentation
-```
 
 ---
 
@@ -69,37 +57,7 @@ The dataset contains applicant details such as:
 
 Dataset Source: Kaggle Loan Prediction Dataset.
 
----
 
-## ⚙️ Installation
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone https://github.com/Kvn30/loan_prediction.git
-```
-
-### 2️⃣ Navigate to the Project Folder
-
-```bash
-cd loan_prediction
-```
-
-### 3️⃣ Install Required Libraries
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## ▶️ Run the Application
-
-```bash
-streamlit run app.py
-```
-
-After running the command, the application will open automatically in your browser.
 
 ---
 
@@ -147,14 +105,3 @@ Add screenshots of your application here.
 
 ---
 
-## 👨‍💻 Author
-
-Vineeth Nayak
-
-GitHub: [https://github.com/Kvn30](https://github.com/Kvn30)
-
----
-
-## 📄 License
-
-This project is developed for educational purposes.
