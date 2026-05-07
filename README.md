@@ -1,4 +1,3 @@
-﻿# loan_prediction
 # Loan Prediction System
 
 A Machine Learning based web application that predicts whether a loan application is likely to be approved or rejected based on applicant details.
